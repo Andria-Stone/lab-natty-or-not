@@ -12,7 +12,7 @@ Depois foi preciso descrever suas principais características, Python é uma fer
 com o prompt pronto, utilizei o Crayion ára gerar a imagem.
 
 ## 🚀 Resultados
-![craiyon_181840_uma_serpente_majestosa_e_inteligente__deslizando_com_gra_a_em_um_ambiente_de_floresta]
+![craiyon_181840_uma_serpente_majestosa_e_inteligente__deslizando_com_gra_a_em_um_ambiente_de_floresta](https://github.com/Andria-Stone/Dio-trilha-java-basico/assets/168233311/ce9ff623-2e05-47f4-a04e-00f1265f3e68
 
 ## 💭 Reflexão (Opcional)
 Esse projeto demostrou que as IAs Generativas tem um grande potencial como ferramenta criativa.
