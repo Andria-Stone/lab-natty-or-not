@@ -8,8 +8,8 @@ Para a geração da imagem, foi utilizado a ferramenta Crayion, que permite cria
 
 ## 🧐 Processo de Criação
 Primeiramente foi escolhido a linguagem de programação que seria representada. 
-Depois foi preciso descrever suas principais características, Python é uma ferramenta que é ágil e versátil, e também por causa do seu nome e logo, a cobra é o animal ideal para representá-lo.
-com o prompt pronto, utilizei o Crayion ára gerar a imagem.
+Depois foi preciso descrever suas principais características, Python é uma ferramenta que é ágil e versátil, e também por causa do seu nome e de sua logo, a cobra é o animal ideal para representá-lo.
+com o prompt pronto, utilizei o Crayion para gerar a imagem.
 
 ## 🚀 Resultados
 ![craiyon_181840_uma_serpente_majestosa_e_inteligente__deslizando_com_gra_a_em_um_ambiente_de_floresta](https://github.com/Andria-Stone/lab-natty-or-not/assets/168233311/be5555e6-09ce-40a8-9ee5-17fd89690fbb)
